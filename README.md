@@ -1,3 +1,3 @@
 # Deep-Learning-for-Stcok-with-PTT-Web-Crawler-in-Taiwan
-for just practice
-lala
+
+Idea : Using the LSTM model to study the  the Stock forum on PTT (Taiwan largest forum)
